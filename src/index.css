@@ -10,7 +10,7 @@ h1 {
 h3 {
   text-align: center;
   text-wrap: wrap;
-  color: #113946;
+  color: darkgreen;
 }
 
 .contact-form {
@@ -27,4 +27,10 @@ p {
 button {
   background-color: #c6dcba;
   border-radius: 5px;
+}
+
+input {
+  border-radius: 5px;
+  border-width: 0;
+  background-color: #f2ecbe;
 }
