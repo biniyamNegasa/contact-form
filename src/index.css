@@ -1,0 +1,30 @@
+body {
+  background-color: #fdaf7b;
+  color: #401f71;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  text-wrap: wrap;
+  color: #113946;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+p {
+  color: red;
+}
+
+button {
+  background-color: #c6dcba;
+  border-radius: 5px;
+}
